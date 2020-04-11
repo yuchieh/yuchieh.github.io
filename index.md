@@ -8,7 +8,7 @@ I'm Yu-Chieh Ho (何宇傑), currently working as a senior data scientist in [Mo
 I received my Ph.D. in Computer Science from [National Taiwan University](https://www.ntu.edu.tw/) and developed solid professional skills, especially machine learning and data mining when working with Prof. Jane Yung-jen Hsu in [Intelligent Agents (iAgents) Lab](https://iagentntu.github.io/) and Prof. Thomas S.
 Huang in [Image Formation and Processing (IFP) group](https://ifp-uiuc.github.io/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-# Selected Academic Projects
+# Research Papers
 ## Learning User Preference from Heterogeneous Data 
 ![project_vreeg](assets/img/e2e_dnn_rec.png)
 _2015 [iAgents Lab](https://iagentntu.github.io/) & [IFP group](https://ifp-uiuc.github.io/)_  
@@ -135,7 +135,7 @@ Recommender Systems, Digital Marketing and Human Computer Interaction
 Tensorflow, Keras, Scikit-learn, Spark MLlib, BQML(GCP) 
 ### Quantitative Data Analysis
 SQL, Pandas, Spark DataFrames, Numpy, Matlab
-###Proof of Concept & Product Deployment 
+### Proof of Concept & Product Deployment 
 Jupyter Notebook, Google Cloud Platform, Amazon Web Service, Docker, Tableau 
 
 *****
@@ -152,6 +152,6 @@ Jupyter Notebook, Google Cloud Platform, Amazon Web Service, Docker, Tableau
 
 [6] Feng, Y., Fu, L.-C., Huang, C.-Y., Lu, C.-H., and **Ho, Y.-C.**, "A Perspective on Fulfilling Technological Needs of Residents", Symposium of Globalization, Urban and Housing Research (2009). 
 
-[7] Fu, L.-C., Wu, C.-L., Lu, C.-H., Liao, C.-F.,** Ho, Y.-C.**, and Liu, Y.-C.” The NTU Attentive Home”, in Automation, vol.20, no.4, pp.18-35, 2009.
+[7] Fu, L.-C., Wu, C.-L., Lu, C.-H., Liao, C.-F., **Ho, Y.-C.**, and Liu, Y.-C.” The NTU Attentive Home”, in Automation, vol.20, no.4, pp.18-35, 2009.
 
 [8] Yen, S.-J., Yang, T.-N., Lee, C.-J., and **Ho, Y.-C.**, “Information Retrieval in Go Game Records,” Workshop on the Sciences of the Artificial 2005 (WCB 2005) 
