@@ -8,7 +8,7 @@ I'm Yu-Chieh Ho (何宇傑), currently working as a senior data scientist in [Mo
 I received my Ph.D. in Computer Science from [National Taiwan University](https://www.ntu.edu.tw/) and developed solid professional skills, especially machine learning and data mining when working with Prof. Jane Yung-jen Hsu in [Intelligent Agents (iAgents) Lab](https://iagentntu.github.io/) and Prof. Thomas S.
 Huang in [Image Formation and Processing (IFP) group](https://ifp-uiuc.github.io/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-# Research Papers
+# Selected Research Projects
 ## Learning User Preference from Heterogeneous Data 
 ![project_vreeg](assets/img/e2e_dnn_rec.png)
 _2015 [iAgents Lab](https://iagentntu.github.io/) & [IFP group](https://ifp-uiuc.github.io/)_  
@@ -50,11 +50,11 @@ as a service from a service station which serves as a readily accessible interfa
 
 _Technologies: Recommender System, Data Mining, Machine Learning_
 
-# Industrial Projects
+# Selected Industrial Projects
 ## Data-Driven Market Segmentation
 Built and evaluated machine learning models for Click-Through Rate (CTR), Conversion per Impression (CPI) improvement and Gender Prediction using TensorFlow, Keras and scikit-learn:  
 
-![project_vreeg](assets/img/Pro_Market_Segmentation.png)  
+![project_vreeg](assets/img/pro_Market_Segmentation.png)  
 _2018-2019, [MoMagic Technologies](https://www.momagic.com/)_
 
 - Distribution based App-Category model:  
@@ -75,7 +75,7 @@ _Technologies: Deep Learning, Statistical Analysis, Service Automation_
 Built the first data science team for this company and delivered two machine learning solutions 
 for real-time bidding (RTB) monitoring. Collaborated with cross-functional developers and 
 deployed proposed solution on the RTB system.
-![project_vreeg](assets/img/Pro_itm.png)
+![project_vreeg](assets/img/pro_itm.png)
 _2017, Quadas_
 - Intelligent Transaction Monitor:   
 A system developed to detect abnormal 
@@ -86,7 +86,7 @@ solution detected all over-bidding events in the
 testing set with only 35-55 false alarms 
 (out of 1917 test events). 
 
-![project_vreeg](assets/img/Pro_fraud_detect.png)
+![project_vreeg](assets/img/pro_fraud_detect.png)
 - Deep-based Fraud Detector: 
 A deep learning enabled anti-fraud approach which filters out ad-fraud and helps the RTB system 
 to bid on high-value traffics. Experimental results showed this solution saved 40% media cost with 
@@ -154,4 +154,6 @@ Jupyter Notebook, Google Cloud Platform, Amazon Web Service, Docker, Tableau
 
 [7] Fu, L.-C., Wu, C.-L., Lu, C.-H., Liao, C.-F., **Ho, Y.-C.**, and Liu, Y.-C.” The NTU Attentive Home”, in Automation, vol.20, no.4, pp.18-35, 2009.
 
-[8] Yen, S.-J., Yang, T.-N., Lee, C.-J., and **Ho, Y.-C.**, “Information Retrieval in Go Game Records,” Workshop on the Sciences of the Artificial 2005 (WCB 2005) 
+<!---
+[8] Yen, S.-J., Yang, T.-N., Lee, C.-J., and **Ho, Y.-C.**, “Information Retrieval in Go Game Records”, Workshop on the Sciences of the Artificial 2005 (WCB 2005) 
+-->
