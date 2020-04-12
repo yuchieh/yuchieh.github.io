@@ -8,48 +8,6 @@ I'm Yu-Chieh Ho (何宇傑), currently working as a senior data scientist in [Mo
 I received my Ph.D. in Computer Science from [National Taiwan University](https://www.ntu.edu.tw/) and developed solid professional skills, especially machine learning and data mining when working with Prof. Jane Yung-jen Hsu in [Intelligent Agents (iAgents) Lab](https://iagentntu.github.io/) and Prof. Thomas S.
 Huang in [Image Formation and Processing (IFP) group](https://ifp-uiuc.github.io/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-# Selected Research Projects
-## Learning User Preference from Heterogeneous Data 
-![project_vreeg](assets/img/e2e_dnn_rec.png)
-_2015 [iAgents Lab](https://iagentntu.github.io/) & [IFP group](https://ifp-uiuc.github.io/)_  
-We present DEERS, a deep end-to-end learning framework for recommender systems (RS). 
-To fulfill the various recommendation contexts, DEERS integrates collaborative filtering (CF) 
-based and content-based recommendation methods into one deep end-to-end neural network to properly 
-utilize all available information when modeling user preferences.
-![project_vreeg](assets/img/individual_rec_exp.jpg)
-DEERS provides modularized interfaces for additional inputs and flexible model structure for various 
-recommendation scenarios and heterogeneous inputs. Moreover, it can capture more sophisticated features 
-by considering the interaction between source data. We evaluated proposed framework under two different 
-real-life scenarios:  individual recommendation and group recommendation on two real-world heterogeneous 
-datasets. The experimental results demonstrate that DEERS holds above good properties and its performance 
-surpassed the state-of-the-art approaches. 
-
-_Technologies: End-to-End Deep Neural Network, Recommender System, User Modeling_
-
-## Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference
-![project_vreeg](assets/img/wsdm_approach.png)
-_2014 [iAgents Lab](https://iagentntu.github.io/)_  
-we focus on long-tail item promotion and aggregate diversity enhancement, and propose a novel approach 
-which diversifies the results of recommender systems by considering “recommendations” as resources to be 
-allocated to the items. Our approach increases the quantity and quality of long-tail item recommendations 
-by adding more variation into the recommendation and maintains a certain level of accuracy simultaneously. 
-![project_vreeg](assets/img/wsdm_exp.png)
-The experimental results show that this approach can discover more worth- recommending items from Long Tails and improves user experience.
-
-_Technologies: Recommender System, Data Mining, Machine Learning_
-
-## Cloud-enabled ADL Recognition and Service Inference Technology
-![project_vreeg](assets/img/cloud_ar.png)
-_2011 [Intelligent Robot Lab](https://robotlab.csie.ntu.edu.tw/member)_  
-Ｗe propose an architecture, in which many health-care applications and services can easily
-build upon, for collective long-term ADL pattern analysisvthat leverages several prominent advantages inherent in
-cloud computing. The core of the proposed infrastructure includes a module to perform MapReduce-assisted
-Bayesian activity recognition based on all collected ADL data. Better yet, the resultant data analysis can be delivered
-as a service from a service station which serves as a readily accessible interface to 3rd party service providers and end users. 
-![project_vreeg](assets/img/cloud_ar_2.png)
-
-_Technologies: Recommender System, Data Mining, Machine Learning_
-
 # Selected Industrial Projects
 ## Data-Driven Market Segmentation
 Built and evaluated machine learning models for Click-Through Rate (CTR), Conversion per Impression (CPI) improvement and Gender Prediction using TensorFlow, Keras and scikit-learn:  
@@ -93,6 +51,48 @@ to bid on high-value traffics. Experimental results showed this solution saved 4
 only 15%-30% conversion loss. 
 
 _Technologies: Deep Learning, Auto Encoder, RTB System_
+
+# Selected Research Projects
+## Learning User Preference from Heterogeneous Data 
+![project_vreeg](assets/img/e2e_dnn_rec.png)
+_2015 [iAgents Lab](https://iagentntu.github.io/) & [IFP group](https://ifp-uiuc.github.io/)_  
+We present DEERS, a deep end-to-end learning framework for recommender systems (RS). 
+To fulfill the various recommendation contexts, DEERS integrates collaborative filtering (CF) 
+based and content-based recommendation methods into one deep end-to-end neural network to properly 
+utilize all available information when modeling user preferences.
+![project_vreeg](assets/img/individual_rec_exp.jpg)
+DEERS provides modularized interfaces for additional inputs and flexible model structure for various 
+recommendation scenarios and heterogeneous inputs. Moreover, it can capture more sophisticated features 
+by considering the interaction between source data. We evaluated proposed framework under two different 
+real-life scenarios:  individual recommendation and group recommendation on two real-world heterogeneous 
+datasets. The experimental results demonstrate that DEERS holds above good properties and its performance 
+surpassed the state-of-the-art approaches. 
+
+_Technologies: End-to-End Deep Neural Network, Recommender System, User Modeling_
+
+## Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference
+![project_vreeg](assets/img/wsdm_approach.png)
+_2014 [iAgents Lab](https://iagentntu.github.io/)_  
+we focus on long-tail item promotion and aggregate diversity enhancement, and propose a novel approach 
+which diversifies the results of recommender systems by considering “recommendations” as resources to be 
+allocated to the items. Our approach increases the quantity and quality of long-tail item recommendations 
+by adding more variation into the recommendation and maintains a certain level of accuracy simultaneously. 
+![project_vreeg](assets/img/wsdm_exp.png)
+The experimental results show that this approach can discover more worth- recommending items from Long Tails and improves user experience.
+
+_Technologies: Recommender System, Data Mining, Machine Learning_
+
+## Cloud-enabled ADL Recognition and Service Inference Technology
+![project_vreeg](assets/img/cloud_ar.png)
+_2011 [Intelligent Robot Lab](https://robotlab.csie.ntu.edu.tw/member)_  
+Ｗe propose an architecture, in which many health-care applications and services can easily
+build upon, for collective long-term ADL pattern analysisvthat leverages several prominent advantages inherent in
+cloud computing. The core of the proposed infrastructure includes a module to perform MapReduce-assisted
+Bayesian activity recognition based on all collected ADL data. Better yet, the resultant data analysis can be delivered
+as a service from a service station which serves as a readily accessible interface to 3rd party service providers and end users. 
+![project_vreeg](assets/img/cloud_ar_2.png)
+
+_Technologies: Activity Recognition, Machine Learning, Cloud Computing_
 
 ******
 <!---
