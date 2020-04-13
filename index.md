@@ -80,7 +80,7 @@ by adding more variation into the recommendation and maintains a certain level o
 ![project_vreeg](assets/img/wsdm_exp.png)
 The experimental results show that this approach can discover more worth- recommending items from Long Tails and improves user experience.
 
-_Technologies: Recommender System, Data Mining, Machine Learning_
+_Technologies: Recommender System, Data Mining, Machine Learning_  
 [[paper]](https://dl.acm.org/doi/10.1145/2556195.2566589)
 
 ## Cloud-enabled ADL Recognition and Service Inference Technology
@@ -93,7 +93,7 @@ Bayesian activity recognition based on all collected ADL data. Better yet, the r
 as a service from a service station which serves as a readily accessible interface to 3rd party service providers and end users. 
 ![project_vreeg](assets/img/cloud_ar_2.png)
 
-_Technologies: Activity Recognition, Machine Learning, Cloud Computing_
+_Technologies: Activity Recognition, Machine Learning, Cloud Computing_  
 [[paper]](https://ieeexplore.ieee.org/document/6008766)
 
 ******
