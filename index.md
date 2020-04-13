@@ -81,6 +81,7 @@ by adding more variation into the recommendation and maintains a certain level o
 The experimental results show that this approach can discover more worth- recommending items from Long Tails and improves user experience.
 
 _Technologies: Recommender System, Data Mining, Machine Learning_
+[[paper]](https://dl.acm.org/doi/10.1145/2556195.2566589)
 
 ## Cloud-enabled ADL Recognition and Service Inference Technology
 ![project_vreeg](assets/img/cloud_ar.png)
@@ -93,6 +94,7 @@ as a service from a service station which serves as a readily accessible interfa
 ![project_vreeg](assets/img/cloud_ar_2.png)
 
 _Technologies: Activity Recognition, Machine Learning, Cloud Computing_
+[[paper]](https://ieeexplore.ieee.org/document/6008766)
 
 ******
 <!---
