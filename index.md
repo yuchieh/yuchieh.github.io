@@ -3,11 +3,17 @@ layout: default
 ---
 
 # Hello!
-I'm Yu-Chieh Ho (何宇傑), currently working as a senior data scientist in [MoMagic Technologies](https://www.momagic.com/), led the design and development of data monetization products and collaborated with cross-functional stakeholders on end-to-end product optimization (e.g., problem formulation, model building, proof of concept (PoC) and deployment). 
+I'm Yu-Chieh Ho (何宇傑), I am highly interested and well experienced in modeling user behavior upon large-scale data.
+
+As a senior data scientist at [MoMagic Technologies](https://www.momagic.com/), 
+I led the design and development of data monetization solutions, and worked closely with cross-functional stakeholders 
+on product optimization (e.g., problem formulation, proof of concept (POC), deployment) and pre-sales. 
 
 I received my Ph.D. in Computer Science from [National Taiwan University](https://www.ntu.edu.tw/) and developed solid professional skills, especially machine learning and data mining when working with Prof. Jane Yung-jen Hsu in [Intelligent Agents (iAgents) Lab](https://iagentntu.github.io/) and Prof. Thomas S.
 Huang in [Image Formation and Processing (IFP) group](https://ifp-uiuc.github.io/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
-
+<!---
+I am highly interested in opportunities requiring machine learning, large-scale data processing, and online POC skills, especially those related to human behavior and market insight discovery. 
+-->
 # Selected Industrial Projects
 ## Data-Driven Market Segmentation
 Built and evaluated machine learning models for Click-Through Rate (CTR), Conversion per Impression (CPI) improvement and Gender Prediction using TensorFlow, Keras and scikit-learn:  
