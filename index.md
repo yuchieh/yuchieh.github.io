@@ -5,8 +5,7 @@ layout: default
 # Hello!
 I'm Yu-Chieh Ho (何宇傑), I am highly interested and well experienced in modeling user behavior upon large-scale data.
 
-As a senior data scientist at [MoMagic Technologies](https://www.momagic.com/), 
-I led the design and development of data monetization solutions, and worked closely with cross-functional stakeholders 
+As a senior data scientist, I led the design and development of data monetization solutions, and worked closely with cross-functional stakeholders 
 on product optimization (e.g., problem formulation, proof of concept (POC), deployment) and pre-sales. 
 
 I received my Ph.D. in Computer Science from [National Taiwan University](https://www.ntu.edu.tw/) and developed solid professional skills, especially machine learning and data mining when working with Prof. Jane Yung-jen Hsu in [Intelligent Agents (iAgents) Lab](https://iagentntu.github.io/) and Prof. Thomas S.
