@@ -149,7 +149,7 @@ Jupyter Notebook, Google Cloud Platform, Amazon Web Service, Docker, Tableau
 # Publications
 [1] **Ho, Y.-C.**, Liu, X.-M., Hsu, Y.-J., Huang, S.-T., “Consensus Oriented Recommendation”, 9th International Symposium on Computational Intelligence and Design.  (ISCID 2016, IEEE)[[paper]](https://ieeexplore.ieee.org/document/7830348)  
        
-[2] **Ho, Y.-C.**, Chiang, Y.-T., Hsu, Y.-J., “Who likes it more? Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference”, 7th International ACM Conference on Web Search and Data Mining [[paper]](https://dl.acm.org/doi/10.1145/2556195.2566589)
+[2] **Ho, Y.-C.**, Chiang, Y.-T., Hsu, Y.-J., “Who likes it more? Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference”, 7th International ACM Conference on Web Search and Data Mining. (WSDM 2014, ACM) [[paper]](https://dl.acm.org/doi/10.1145/2556195.2566589)
 
 [3] **Ho, Y.-C.**, Hsu, S.-C., Yen, S.-J., "An Efficient Index Structure for Go", 27th Annual Conference of the Japanese Society for Artificial Intelligence. (JSAI 2013)
 
