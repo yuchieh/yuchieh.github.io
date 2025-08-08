@@ -147,20 +147,20 @@ Jupyter Notebook, Google Cloud Platform, Amazon Web Service, Docker, Tableau
 
 *****
 # Publications
-[1] **Ho, Y.-C.**, Liu, X.-M., Hsu, Y.-J., Huang, S.-T., “Consensus Oriented Recommendation”, 9th International Symposium on Computational Intelligence and Design.  (ISCID 2016, IEEE)[[paper]](https://ieeexplore.ieee.org/document/7830348)  
+**Ho, Y.-C.**, Tsai, W.-C. Lai, Z.-Y. (2025), "Making the Familiar Strange: A Computational Approach to Defamiliarization in Creativity Support", in 16th International Conference on Computational Creativity
+
+**Ho, Y.-C.**, Liu, X.-M., Hsu, Y.-J., Huang, S.-T., “Consensus Oriented Recommendation”, in 9th International Symposium on Computational Intelligence and Design.  (ISCID 2016, IEEE)[[paper]](https://ieeexplore.ieee.org/document/7830348)  
        
-[2] **Ho, Y.-C.**, Chiang, Y.-T., Hsu, Y.-J., “Who likes it more? Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference”, 7th International ACM Conference on Web Search and Data Mining. (WSDM 2014, ACM) [[paper]](https://dl.acm.org/doi/10.1145/2556195.2566589)
+**Ho, Y.-C.**, Chiang, Y.-T., Hsu, Y.-J., “Who likes it more? Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference”, in 7th International ACM Conference on Web Search and Data Mining. (WSDM 2014, ACM) [[paper]](https://dl.acm.org/doi/10.1145/2556195.2566589)
 
-[3] **Ho, Y.-C.**, Hsu, S.-C., Yen, S.-J., "An Efficient Index Structure for Go", 27th Annual Conference of the Japanese Society for Artificial Intelligence. (JSAI 2013)
+**Ho, Y.-C.**, Hsu, S.-C., Yen, S.-J., "An Efficient Index Structure for Go", in 27th Annual Conference of the Japanese Society for Artificial Intelligence. (JSAI 2013)
 
-[4] Huang, Y.-C., **Ho, Y.-C.**, Lu, C.-H., and Fu, L.-C., “A Cloud-based Accessible Architecture for Large-scale ADL Analysis”, 4th IEEE International Conference on Cloud Computing. (IEEE CLOUD 2011) [[paper]](https://ieeexplore.ieee.org/document/6008766)
+Huang, Y.-C., **Ho, Y.-C.**, Lu, C.-H., and Fu, L.-C., “A Cloud-based Accessible Architecture for Large-scale ADL Analysis”, in 4th IEEE International Conference on Cloud Computing. (IEEE CLOUD 2011) [[paper]](https://ieeexplore.ieee.org/document/6008766)
 
-[5] Fu, L.-C., and **Ho, Y.-C.**, “Information and communications technology in a smart home” in Chapter 4, Smart Living, Living Smart, Edt: Pei-Lin Liu and Sue-Ching Jou, Garden City Publishers, 2011 
+Fu, L.-C., and **Ho, Y.-C.**, “Information and communications technology in a smart home” in Chapter 4, Smart Living, Living Smart, Edt: Pei-Lin Liu and Sue-Ching Jou, Garden City Publishers, 2011 
 
-[6] Feng, Y., Fu, L.-C., Huang, C.-Y., Lu, C.-H., and **Ho, Y.-C.**, "A Perspective on Fulfilling Technological Needs of Residents", Symposium of Globalization, Urban and Housing Research (2009). 
+Feng, Y., Fu, L.-C., Huang, C.-Y., Lu, C.-H., and **Ho, Y.-C.**, "A Perspective on Fulfilling Technological Needs of Residents", in Symposium of Globalization, Urban and Housing Research (2009). 
 
-[7] Fu, L.-C., Wu, C.-L., Lu, C.-H., Liao, C.-F., **Ho, Y.-C.**, and Liu, Y.-C.” The NTU Attentive Home”, in Automation, vol.20, no.4, pp.18-35, 2009.
+Fu, L.-C., Wu, C.-L., Lu, C.-H., Liao, C.-F., **Ho, Y.-C.**, and Liu, Y.-C.” The NTU Attentive Home”, in Automation, vol.20, no.4, pp.18-35, 2009.
 
-<!---
-[8] Yen, S.-J., Yang, T.-N., Lee, C.-J., and **Ho, Y.-C.**, “Information Retrieval in Go Game Records”, Workshop on the Sciences of the Artificial 2005 (WCB 2005) 
--->
+Yen, S.-J., Yang, T.-N., Lee, C.-J., and **Ho, Y.-C.**, “Information Retrieval in Go Game Records”, in Workshop on the Sciences of the Artificial 2005 (WCB 2005) 
